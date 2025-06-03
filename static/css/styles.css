@@ -20,8 +20,8 @@
 
 :root {
   --radius: 8px;
-  --bg-color: #141413;
-  --text-color: #f0efea;
+  --bg-color: #1b1b1b;
+  --text-color: #fffbf3;
   --border-color: #444;
   --footnote-bg-color: rgba(255, 255, 255, 0.15);
   --footnote-hover-bg-color: rgba(255, 255, 255, 0.4);
@@ -30,7 +30,7 @@
   --tooltip-shadow-color: rgba(255, 255, 255, 0.15);
   --highlight-color: rgba(137, 137, 222, 0.3);
   --font-size-base: 20px;
-  --content-max-width: 620px;
+  --content-max-width: 60ch;
   --content-padding: 0 20px;
   --focus-color: #0066cc;
   --subscribe-form-bg: transparent;
